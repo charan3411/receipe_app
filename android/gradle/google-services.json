@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102494471093",
+    "project_id": "receipe-4cda9",
+    "storage_bucket": "receipe-4cda9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102494471093:android:db4f1dc04eeca5c78f4ffc",
+        "android_client_info": {
+          "package_name": "com.example.receipe_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102494471093-254c4iv0g0s04gjroeue5e2p7f82pevm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA7R9MM5unpx66EgSt3L-d3l3pxLzGrMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102494471093-254c4iv0g0s04gjroeue5e2p7f82pevm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
